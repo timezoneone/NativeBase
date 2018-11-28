@@ -135,16 +135,17 @@ _react2.default.createElement(_Icon.Icon,{
 type:item.iconType,
 name:item.icon,
 style:{
+width:30,
 color:item.iconColor?item.iconColor:undefined},__source:{fileName:_jsxFileName,lineNumber:134}})),
 
 
 
 _react2.default.createElement(_Body.Body,{
-style:{borderColor:"transparent",paddingLeft:7},__source:{fileName:_jsxFileName,lineNumber:142}},
+style:{borderColor:"transparent",paddingLeft:7},__source:{fileName:_jsxFileName,lineNumber:143}},
 
-_react2.default.createElement(_Text.Text,{__source:{fileName:_jsxFileName,lineNumber:145}},item.text)),
+_react2.default.createElement(_Text.Text,{__source:{fileName:_jsxFileName,lineNumber:146}},item.text)),
 
-_react2.default.createElement(_Right.Right,{__source:{fileName:_jsxFileName,lineNumber:147}}));
+_react2.default.createElement(_Right.Right,{__source:{fileName:_jsxFileName,lineNumber:148}}));
 
 
 },__source:{fileName:_jsxFileName,lineNumber:102}})))));
