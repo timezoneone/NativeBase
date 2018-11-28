@@ -132,6 +132,7 @@ class ActionSheetContainer extends Component {
                   >
                     <Left>
                       <Icon
+                        type={item.iconType}
                         name={item.icon}
                         style={{
                           color: item.iconColor ? item.iconColor : undefined
