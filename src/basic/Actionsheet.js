@@ -145,7 +145,7 @@ class ActionSheetContainer extends Component {
                     >
                       <Text>{item.text}</Text>
                     </Body>
-                    <Right />
+                    <Right style={{borderColor: "transparent"}} />
                   </ListItem>
                 );
               }}

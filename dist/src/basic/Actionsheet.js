@@ -145,7 +145,7 @@ style:{borderColor:"transparent",paddingLeft:7},__source:{fileName:_jsxFileName,
 
 _react2.default.createElement(_Text.Text,{__source:{fileName:_jsxFileName,lineNumber:146}},item.text)),
 
-_react2.default.createElement(_Right.Right,{__source:{fileName:_jsxFileName,lineNumber:148}}));
+_react2.default.createElement(_Right.Right,{style:{borderColor:"transparent"},__source:{fileName:_jsxFileName,lineNumber:148}}));
 
 
 },__source:{fileName:_jsxFileName,lineNumber:102}})))));
